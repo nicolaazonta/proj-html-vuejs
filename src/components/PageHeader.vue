@@ -5,9 +5,9 @@
 </script>
 
 <template>
-    <div class="">
+    <PageHeader class="">
         <h1 class="">header</h1>
-    </div>
+    </PageHeader>
 </template>
 
 

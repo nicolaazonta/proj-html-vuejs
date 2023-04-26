@@ -1,3 +1,12 @@
 @use '/node_modules/bootstrap/scss/bootstrap.scss';
 @use './partials/PageHeader.scss';
 @use './partials/PageFooter.scss';
+
+@use './partials/JumboSection.scss';
+@use './partials/HumanCorePerformanceSection.scss';
+@use './partials/CompanySection.scss';
+@use './partials/ServicesSection.scss';
+@use './partials/PricingSection.scss';
+@use './partials/NewsSection.scss';
+@use './partials/KnowSection.scss';
+
