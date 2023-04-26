@@ -9,7 +9,17 @@
 
 
     export default {
-        name: 'PageMain'
+        name: 'PageMain',
+        components: {
+            JumboSection,
+            HumanCorePerformanceSection,
+            CompanySection,
+            ServicesSection,
+            PricingSection,
+            NewsSection,
+            KnowSection
+        }
+
         
     }
 </script>
