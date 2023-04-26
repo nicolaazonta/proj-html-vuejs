@@ -1,11 +1,13 @@
 <script>
     export default {
-        name: 'PageFooter'
+        name: 'JumboSection'
     }
 </script>
 
 <template>
-   <h3>footer</h3>
+    <div>
+        <h2>JumboSection</h2>
+    </div>
 </template>
 
 

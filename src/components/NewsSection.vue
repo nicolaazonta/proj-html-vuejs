@@ -1,11 +1,13 @@
 <script>
     export default {
-        name: 'PageFooter'
+        name: 'NewsSection'
     }
 </script>
 
 <template>
-   <h3>footer</h3>
+    <div>
+        <h2>NewsSection</h2>
+    </div>
 </template>
 
 

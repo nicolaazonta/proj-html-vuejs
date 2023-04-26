@@ -1,11 +1,13 @@
 <script>
     export default {
-        name: 'PageFooter'
+        name: 'ServicesSection'
     }
 </script>
 
 <template>
-   <h3>footer</h3>
+    <div>
+
+    </div>
 </template>
 
 

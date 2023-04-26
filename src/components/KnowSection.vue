@@ -1,11 +1,13 @@
 <script>
     export default {
-        name: 'PageFooter'
+        name: 'KnowSection'
     }
 </script>
 
 <template>
-   <h3>footer</h3>
+    <div>
+        <h2>KnowSection</h2>
+    </div>
 </template>
 
 
