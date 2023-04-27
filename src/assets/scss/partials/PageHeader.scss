@@ -2,15 +2,15 @@
 
 #PageHeader {
     background-color: $bg-header;
-    color: $txt-light;
     font-size: .8rem;
-
+    
     & svg {
         aspect-ratio: 1;
     }
-
-    & li {
-        padding: 0 1rem;
+    
+    & a , .left_container{
+        color: $txt-light!important;
+        padding: 0 .5rem;
     }
 
 

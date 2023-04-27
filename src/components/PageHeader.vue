@@ -39,15 +39,10 @@ export default {
 </template>
 
 
-<style lang="scss">
-    ul {
-        list-style: none;
-    }
+<style lang="scss">    
 
     a {
         text-decoration: none!important;
-        padding: 0 .5rem;
-        color: inherit!important;
-
+        
     }
 </style>

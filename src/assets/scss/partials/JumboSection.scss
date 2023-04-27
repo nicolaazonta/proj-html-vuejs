@@ -2,6 +2,29 @@
 
 #JumboSection {
 
-    background-color: red;
+    background-image: linear-gradient(rgba(10, 10, 10, 0.918), rgba(8, 8, 8, 0.781)),
+        url("/img/hero-image.png");
+    background-size: cover;
+
+    & a {
+        color: $txt-light !important;
+        text-transform: uppercase;
+    }
+
+    & .jumbo_main{
+        padding: 15rem 5rem;
+        justify-self: center;
+        align-self: center;
+        color: $txt-light !important;
+
+    }
+
+    & .logo {
+        justify-self: start!important;
+    }
+
+
+
+
 
 }
