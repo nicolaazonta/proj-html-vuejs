@@ -7,32 +7,32 @@ export default {
 <template>
     <div id="PageHeader">
         <div class="container w-75 d-flex justify-content-between py-2">
-            <div class="left_container">
-                <i class="fa-regular fa-clock"></i>
+            <div class="left_container d-flex align-items-center">
+                <font-awesome-icon class="px-1" icon="fa-solid fa-user-secret" />
                 <span>Open Hours: Mon - Sat - 9:00 - 18:00</span>
             </div>
             <ul class="right_container d-flex">
                 <li class="d-flex align-items-center">
                     <a href="#">
-                        <i class="fa-regular fa-clock"></i>
+                        <font-awesome-icon class="px-1" icon="fa-solid fa-clock" />
                         <span>+1(305) 1234-5678</span>
                     </a>
                 </li>
-                <li class="d-flex align-items-center">
-                    <a href="#">
+                <li >
+                    <a class="d-flex align-items-center" href="#">
                         <i class="fa-solid fa-envelope"></i>
                         <span>hello@example.com</span>
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a class="d-flex align-items-center" href="#">
+                        <i class="fa-solid fa-envelope"></i>
                         <span>hello@example.com</span>
                     </a>
                 </li>
             </ul>
  
         </div>
-        <i class="fa-regular fa-clock"></i>
 
     </div>
 </template>

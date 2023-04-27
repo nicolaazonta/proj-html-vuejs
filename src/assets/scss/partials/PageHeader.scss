@@ -4,11 +4,8 @@
     background-color: $bg-header;
     color: $txt-light;
 
-    & i {
-        display: block;
+    & svg {
         aspect-ratio: 1;
-        width: 5rem;
-        fill: $txt-light;
     }
 
     & li {
