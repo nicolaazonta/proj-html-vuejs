@@ -5,7 +5,7 @@
 </script>
 
 <template>
-    <div>
+    <div id="HumanCorePerformanceSection">
         <h2>HumanCorePerformanceSection</h2>
     </div>
 </template>

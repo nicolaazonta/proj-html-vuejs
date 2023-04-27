@@ -5,9 +5,9 @@
 </script>
 
 <template>
-    <JumboSection>
+    <div id="JumboSection">
         <h2>JumboSection</h2>
-    </JumboSection>
+    </div>
 </template>
 
 

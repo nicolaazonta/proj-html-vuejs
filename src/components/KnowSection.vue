@@ -5,12 +5,12 @@
 </script>
 
 <template>
-    <div>
+    <div id="KnowSection">
         <h2>KnowSection</h2>
     </div>
 </template>
 
 
-<style lang="scss" scoped>
+<style lang="scss">
 
 </style>

@@ -5,10 +5,12 @@
 </script>
 
 <template>
-   <h1>footer</h1>
+    <div id="PageFooter">
+        <h1>footer</h1>
+    </div>
 </template>
 
 
-<style lang="scss" scoped>
+<style lang="scss">
 
 </style>

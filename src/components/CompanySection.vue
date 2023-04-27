@@ -5,7 +5,7 @@
 </script>
 
 <template>
-    <div>
+    <div id="CompanySection">
         <h2>CompanySection</h2>
     </div>
 </template>

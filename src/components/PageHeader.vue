@@ -5,12 +5,12 @@
 </script>
 
 <template>
-    <PageHeader class="">
+    <div id="PageHeader">
         <h1 class="">header</h1>
-    </PageHeader>
+    </div>
 </template>
 
 
-<style lang="scss" scoped>
+<style lang="scss">
 
 </style>

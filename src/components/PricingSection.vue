@@ -5,12 +5,12 @@
 </script>
 
 <template>
-    <div>
+    <div id="PricingSection">
         <h2>PricingSection</h2>
     </div>
 </template>
 
 
-<style lang="scss" scoped>
+<style lang="scss">
 
 </style>
