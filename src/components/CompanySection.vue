@@ -6,11 +6,16 @@
 
 <template>
     <div id="CompanySection">
-        <h2>CompanySection</h2>
+        <div class="container w-75">
+            <div class="left_side"></div>
+            <div class="right_side">
+                <img src="../assets/img/about-3.jpg" alt="">
+            </div>
+        </div>
     </div>
 </template>
 
 
-<style lang="scss" scoped>
+<style lang="scss">
 
 </style>
