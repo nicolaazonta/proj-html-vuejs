@@ -34,9 +34,13 @@ export default {
                     </li>
                 </ul>
             </navbar>
-            <div class="jumbo_main">
+            <div class="jumbo_main text-center">
 
-                <h2>lead customer</h2>
+                <h1 class="text-capitalize">lead ~ customer</h1>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum cum nisi omnis. Necessitatibus odit
+                    quod molestias autem voluptas eaque doloribus!</p>
+                <button class="full_btn my_btn">get in touch</button>
+                <button class="empty_btn my_btn">read more</button>
 
 
             </div>
@@ -45,4 +49,6 @@ export default {
 </template>
 
 
-<style lang="scss" scoped></style>
+<style lang="scss">
+
+</style>
