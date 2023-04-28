@@ -1,7 +1,39 @@
 @use 'variables' as *;
 
 #ServicesSection {
+    color: $txt-light;
+    background-color: $bg-services;
 
-    background-color: red;
+    & .empty_btn {
+        background-color: transparent;
+    }
+
+    & .my_btn {
+        /* margin: 0 .5rem; */
+        color: $txt-light;
+        font-weight: 700;
+        font-size: .9rem;
+        vertical-align: middle;
+        text-transform: uppercase;
+        padding: .4rem 1.2rem;
+        border-width: 1px;
+        border-style: solid;
+        border-color: $cta-button;
+        border-radius: .4rem;
+    }
+
+    & h6{
+        color: $cta-button;
+    }
+    & h2{
+        font-weight: 900;
+        font-size: 3rem;
+    }
+    & .card{
+        background-color: $bg-card-services;
+    }
+    & .icon{
+        color: $cta-button;
+    }
 
 }
