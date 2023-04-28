@@ -2,6 +2,9 @@
 
 #PageFooter {
 
-    background-color: red;
+    background-color: $bg-very-light;
 
+    & .contact{
+        color: $cta-button;
+    }
 }

@@ -13,7 +13,11 @@
     }
 
     & input{
-        margin: 1rem 0;
+        background-color: rgba(240, 248, 255, 0.312)!important;
+    }
+
+    & input, button {
+        margin: .7rem 0;
     }
 
 }
