@@ -62,10 +62,57 @@ export default {
                 <div class="row">
                     <div class="col-3 px-5">
                         <h4 class="logo"><span class="half_marked">nex</span>gen</h4>
+                        <p class="py-1">A functional HTML template for Corporate & Business</p>
+                        <div class="py-1  contact d-flex align-items-center">
+                            <h6 class="">phone</h6>
+                            <span>+1 (305) 1234-5678</span>
+                        </div>
+                        <div class="py-1  contact d-flex align-items-center">
+                            <h6 class="">mail</h6>
+                            <span>hello@example.com</span>
+                        </div>
+                        <div class="py-1  contact d-flex align-items-center">
+                            <h6 class="">location</h6>
+                            <span>Main Avenue, 987</span>
+                        </div>
+                        <button class="my_btn empty_btn my-1">get in touch</button>
                     </div>
                     <div class="col-3">
                         <div class="card">
-                            prova
+                            <ul class="list-unstyled">
+                                <li class="list_title">About</li>
+                                <li>
+                                    <div class="icon">icon</div>
+                                    <span>The Company</span>
+                                    
+                                </li>
+                                <li>
+                                    <div class="icon">icon</div>
+                                    <span>Institutional</span>
+                                    
+                                </li>
+                                <li>
+                                    <div class="icon">icon</div>
+                                    <span>Social & Events</span>
+                                    
+                                </li>
+                                <li>
+                                    <div class="icon">icon</div>
+                                    <span>Innovation</span>
+                                    
+                                </li>
+                                <li>
+                                    <div class="icon">icon</div>
+                                    <span>Environment</span>
+                                    
+                                </li>
+                                <li>
+                                    <div class="icon">icon</div>
+                                    <span>Technology</span>
+                                    
+                                </li>
+
+                            </ul>
                         </div>
                     </div>
                     <div class="col-3">

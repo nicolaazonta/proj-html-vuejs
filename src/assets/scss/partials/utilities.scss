@@ -24,7 +24,7 @@
 
 .my_btn:hover {
     background-color: $bg-hover-btn;
-    color: $txt-dark;
+    color: $txt-dark!important;
 }
 
 .section_subtitle{
@@ -50,14 +50,17 @@
     padding: .25rem .5rem;
 }
 .logo{
+    font-weight: 700;
+    margin: 1rem 0;
     color: $txt-light;
     text-transform: uppercase;
     letter-spacing: .4rem;
 }
 .half_marked{
-    color: $cta-button;
+    padding: .25rem 0 .35rem 1.5rem;
+    margin-right: .3rem;
+    color: $cta-button-strong;
     border-radius: 1.25rem 0 0 1.25rem;
     background-color: rgba(0, 255, 255, 0.24);
-    padding: .25rem 0 0.35rem 1.5rem;
     
 }
