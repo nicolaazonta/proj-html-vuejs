@@ -2,6 +2,18 @@
 
 #KnowSection {
 
-    background-color: red;
+    background-image: url('/src/assets/img/bg-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: $txt-light;
+
+    & .section_paragraph{
+        padding: 0;
+    }
+
+    & input{
+        margin: 1rem 0;
+    }
 
 }
