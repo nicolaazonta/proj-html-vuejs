@@ -7,7 +7,7 @@ export default {
 <template>
     <div id="PageFooter">
         <div id="GetinTouch">
-            <div class="container w-75 py-5">
+            <div class="container w-75 padding_special">
                 <div class="row">
                     <div class="col-8 px-5">
                         <h6 class="section_subtitle">send a message</h6>
@@ -41,13 +41,13 @@ export default {
                         <p class="py-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid voluptas ipsam</p>
                         <p class="py-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid voluptas ipsam</p>
                         <div class="contact d-flex align-items-center">
-                            <a class="mx-2 p-1">+1 (305) 1234-5678</a>
+                            <span class=" p-1">+1 (305) 1234-5678</span>
                         </div>
                         <div class="contact d-flex align-items-center">
-                            <a class="mx-2 p-1">hello@example.com</a>
+                            <span class=" p-1">hello@example.com</span>
                         </div>
                         <div class="contact d-flex align-items-center">
-                            <a class="mx-2 p-1">Main Avenue, 987</a>
+                            <span class=" p-1">Main Avenue, 987</span>
                         </div>
                         <button class="my_btn empty_btn my-2">view map</button>
                     </div>
@@ -55,24 +55,21 @@ export default {
             </div>
         </div>
         <div id="footerTop">
-            <div class="container w-75 py-5">
+            <div class="container w-75 padding_special">
                 <div class="row">
                     <div class="col-3 px-5">
                         <h4 class="logo"><span class="half_marked">nex</span>gen</h4>
                         <p class="py-1">A functional HTML template for Corporate & Business</p>
                         <div class="py-1  contact d-flex align-items-center">
-                            <h6 class="">phone</h6>
                             <span>+1 (305) 1234-5678</span>
                         </div>
                         <div class="py-1  contact d-flex align-items-center">
-                            <h6 class="">mail</h6>
                             <span>hello@example.com</span>
                         </div>
                         <div class="py-1  contact d-flex align-items-center">
-                            <h6 class="">location</h6>
                             <span>Main Avenue, 987</span>
                         </div>
-                        <button class="my_btn empty_btn my-1">get in touch</button>
+                        <button class="my_btn empty_btn my-2">get in touch</button>
                     </div>
                     <div class="col-3">
                         <div class="card">

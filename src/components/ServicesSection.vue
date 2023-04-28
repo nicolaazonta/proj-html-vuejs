@@ -9,7 +9,7 @@
         <div class="container w-75 padding_special">
             <div class="header_top">
                 <h6 class="section_subtitle">our business area</h6> 
-                <h2 class="section_title">Excellence in Services</h2>            
+                <h2 class="section_title">Excellence in <span class="marked">Services</span></h2>            
             </div>
             <div class="header_bottom d-flex justify-content-between align-items-center py-1">
                 <p class="w-75 section_paragraph">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo quisquam doloribus quo repellat facilis esse consequatur odit in recusandae voluptate.</p>
