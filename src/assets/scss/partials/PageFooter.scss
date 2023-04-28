@@ -2,9 +2,21 @@
 
 #PageFooter {
 
-    background-color: $bg-very-light;
+    & #GetinTouch{
+        background-color: $bg-very-light;
+    
+        & .contact{
+            color: $cta-button;
+        }
+    }
 
-    & .contact{
-        color: $cta-button;
+    & #footerTop{
+        background-color: $bg-services;
+        color: $txt-light;
+
+        & .card{
+            background-color: $bg-card-services;
+            padding: 2rem;
+        }
     }
 }

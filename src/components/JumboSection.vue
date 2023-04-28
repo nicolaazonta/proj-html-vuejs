@@ -9,8 +9,8 @@ export default {
         <div class="container w-75 d-grid">
             <navbar class="d-flex justify-content-between py-2">
                 <ul class="nav">
-                    <li class="nav-item logo">
-                        <a class="nav-link" href="#">nexgen</a>
+                    <li class="nav-item">
+                        <h4 class="logo"><span class="half_marked">nex</span>gen</h4>
                     </li>
                 </ul>
                 <ul class="nav">
