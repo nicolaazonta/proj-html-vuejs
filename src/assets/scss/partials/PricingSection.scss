@@ -2,6 +2,25 @@
 
 #PricingSection {
 
-    background-color: red;
+    background-color: $bg-light;
+
+    & h2{
+        font-weight: 900;
+        font-size: 2.5rem;
+    }
+    & .icon, .price{
+        color: $cta-button;
+    }
+    & .big_price{
+        font-weight: 700;
+        font-size: 2rem;
+    }
+    & .spec_text{
+        padding-right: 2rem;
+    }
+    & .spec_icon{
+        padding-left: 2rem;
+
+    }
 
 }
