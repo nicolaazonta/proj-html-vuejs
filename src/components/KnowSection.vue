@@ -6,7 +6,7 @@
 
 <template>
     <div id="KnowSection">
-        <div class="container w-50">            
+        <div class="container w-50 padding_special">            
             <div class="row py-5">
                 <div class="col-6">
                     <h5 class="section_subtitle">newsletter</h5>

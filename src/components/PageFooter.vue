@@ -19,18 +19,18 @@ export default {
                                     <input type="text" class="form-control" placeholder="Name" aria-label="name">
                                 </div>
                                 <div class="col-6">
-                                    <input type="text" class="form-control" placeholder="Name" aria-label="name">
+                                    <input type="text" class="form-control" placeholder="Email" aria-label="name">
                                 </div>
                                 <div class="col-6">
-                                    <input type="text" class="form-control" placeholder="Name" aria-label="name">
+                                    <input type="text" class="form-control" placeholder="Phone" aria-label="name">
                                 </div>
                                 <div class="col-6">
-                                    <input type="text" class="form-control" placeholder="Name" aria-label="name">
+                                    <input type="text" class="form-control" placeholder="More Info" aria-label="name">
                                 </div>
                             </div>
                             <div class="row my-3">
                                 <div class="col">
-                                    <textarea class="form-control" placeholder="Name" aria-label="name"></textarea>
+                                    <textarea class="form-control" placeholder="Message" aria-label="name"></textarea>
                                 </div>
                             </div>
                         </div>
@@ -41,18 +41,15 @@ export default {
                         <p class="py-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid voluptas ipsam</p>
                         <p class="py-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid voluptas ipsam</p>
                         <div class="contact d-flex align-items-center">
-                            <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
-                            <span class="mx-2">+1 (305) 1234-5678</span>
+                            <a class="mx-2 p-1">+1 (305) 1234-5678</a>
                         </div>
                         <div class="contact d-flex align-items-center">
-                            <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
-                            <span class="mx-2">hello@example.com</span>
+                            <a class="mx-2 p-1">hello@example.com</a>
                         </div>
                         <div class="contact d-flex align-items-center">
-                            <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
-                            <span class="mx-2">Main Avenue, 987</span>
+                            <a class="mx-2 p-1">Main Avenue, 987</a>
                         </div>
-                        <button class="my_btn empty_btn">view map</button>
+                        <button class="my_btn empty_btn my-2">view map</button>
                     </div>
                 </div>
             </div>

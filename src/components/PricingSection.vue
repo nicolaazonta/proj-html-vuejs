@@ -6,9 +6,9 @@
 
 <template>
     <div id="PricingSection">
-        <div class="container w-75 p-5">
-            <h6 class="text-uppercase text-center">monthly plans</h6>
-            <h2 class="text-capitalize text-center py-2"><span class="marked">pricing</span> table</h2>
+        <div class="container w-75 padding_special">
+            <h6 class="section_subtitle text-center">monthly plans</h6>
+            <h2 class="section_title text-center"><span class="marked">Pricing</span> Table</h2>
             <p class="text-center px-5">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi sapiente et facilis amet magnam odit dignissimos voluptatibus voluptates vel. Corporis?</p>
             <div class="row py-3 align-items-center">
                 <div class="col-4">

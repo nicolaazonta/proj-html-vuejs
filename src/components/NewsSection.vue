@@ -6,7 +6,7 @@
 
 <template>
     <div id="NewsSection">
-        <div class="container w-75 py-5">
+        <div class="container w-75 padding_special">
             <div class="header_top">
                 <h6 class="section_subtitle">our editorial content</h6> 
                 <h2 class="section_title">Latest News</h2>          
