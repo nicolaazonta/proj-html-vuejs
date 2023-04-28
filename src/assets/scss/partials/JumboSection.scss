@@ -2,8 +2,7 @@
 
 #JumboSection {
 
-    background-image: linear-gradient(rgba(10, 10, 10, 0.918), rgba(8, 8, 8, 0.781)),
-        url("/src/assets/img/hero-image.png");
+    background-image: linear-gradient(rgba(10, 10, 10, 0.918), rgba(8, 8, 8, 0.781)), url("/src/assets/img/hero-image.png");
     background-size: cover;
 
     & a {
@@ -11,7 +10,7 @@
         text-transform: uppercase;
     }
 
-    & .jumbo_main{
+    & .jumbo_main {
         padding: 15rem 15rem;
         justify-self: center;
         align-self: center;
@@ -20,33 +19,11 @@
     }
 
     & .logo {
-        justify-self: start!important;
+        justify-self: start !important;
     }
-    & .full_btn {
-        background-color: $cta-button;
-    }
-    & .empty_btn {
-        background-color: transparent;
-    }
-    & .my_btn{
-        margin: 0 .5rem;
-        color: $txt-light;
-        font-weight: 700;
-        font-size: .9rem;
-        vertical-align: middle;
-        text-transform: uppercase;
-        padding: .4rem 1.2rem;
-        border-width: 1px;
-        border-style: solid;
-        border-color: $cta-button;
-        border-radius: .4rem;
-    }
-    & h1{
+
+    & h1 {
         font-weight: 900;
         font-size: 4rem;
     }
-
-
-
-
 }

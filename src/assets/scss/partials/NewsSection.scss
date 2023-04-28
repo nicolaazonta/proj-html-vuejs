@@ -2,6 +2,23 @@
 
 #NewsSection {
 
-    background-color: red;
+    color: $txt-light;
+    background-color: $bg-very-light;
 
+    & h6 {
+        color: $cta-button;
+    }
+
+    & h2 {
+        font-weight: 900;
+        font-size: 3rem;
+    }
+
+    & .card {
+        background-color: $bg-card-services;
+    }
+
+    & .icon {
+        color: $cta-button;
+    }
 }
