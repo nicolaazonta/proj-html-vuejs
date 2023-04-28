@@ -37,10 +37,9 @@ export default {
             <div class="jumbo_main text-center">
 
                 <h1 class="text-capitalize">lead ~ customer</h1>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum cum nisi omnis. Necessitatibus odit
-                    quod molestias autem voluptas eaque doloribus!</p>
-                <button class="full_btn my_btn">get in touch</button>
-                <button class="empty_btn my_btn">read more</button>
+                <p>Successful strategies require data analysis, creativity and customer focus, taking advantage of the latest technologies to offer excellent services</p>
+                <button class="full_btn my_btn m-2">get in touch</button>
+                <button class="empty_btn my_btn m-2">read more</button>
 
 
             </div>

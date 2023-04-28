@@ -22,11 +22,6 @@
     border-radius: .4rem;
 }
 
-.my_btn:hover {
-    background-color: $bg-hover-btn;
-    color: $txt-dark!important;
-}
-
 .section_subtitle{
     color: $cta-button;
     font-size: .9rem;
@@ -63,4 +58,15 @@
     border-radius: 1.25rem 0 0 1.25rem;
     background-color: rgba(0, 255, 255, 0.24);
     
+}
+
+.my_btn:hover {
+    background-color: $bg-hover-btn;
+    color: $txt-dark!important;
+    border: none;
+}
+
+a:hover {
+    background-color: rgba(0, 0, 0, 0.466);
+    border-radius: 1rem;
 }
