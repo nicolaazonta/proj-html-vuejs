@@ -38,12 +38,6 @@
     padding: .25rem 0;
     width: 75%;
 }
-.marked{
-    color: $cta-button;
-    background-color: rgba(0, 128, 0, 0.16);
-    border-radius: .5rem;
-    padding: .25rem .5rem;
-}
 .logo{
     font-weight: 700;
     margin: 1rem 0;
@@ -58,6 +52,23 @@
     border-radius: 1.25rem 0 0 1.25rem;
     background-color: rgba(0, 255, 255, 0.24);
     
+}
+.marked{
+    color: $cta-button;
+    background-color: rgba(20, 211, 20, 0.16);
+    border-radius: .5rem;
+    padding: .25rem .5rem;
+}
+
+.icon{
+    scale: 2 ;
+    width: 1rem;
+    height: 1.5rem;
+    margin-left: 1rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    aspect-ratio: 1!important;
+    border-radius: round($number: 50%);
 }
 
 .my_btn:hover {

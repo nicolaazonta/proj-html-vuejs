@@ -41,16 +41,16 @@ export default {
                         <p class="py-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid voluptas ipsam</p>
                         <p class="py-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid voluptas ipsam</p>
                         <div class="contact d-flex align-items-center">
-                            <h2 class="marked rounded-circle">phone</h2>
-                            <span>+1 (305) 1234-5678</span>
+                            <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
+                            <span class="mx-2">+1 (305) 1234-5678</span>
                         </div>
                         <div class="contact d-flex align-items-center">
-                            <h2 class="marked rounded-circle">mail</h2>
-                            <span>hello@example.com</span>
+                            <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
+                            <span class="mx-2">hello@example.com</span>
                         </div>
                         <div class="contact d-flex align-items-center">
-                            <h2 class="marked rounded-circle">location</h2>
-                            <span>Main Avenue, 987</span>
+                            <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
+                            <span class="mx-2">Main Avenue, 987</span>
                         </div>
                         <button class="my_btn empty_btn">view map</button>
                     </div>
@@ -82,32 +82,32 @@ export default {
                             <ul class="list-unstyled">
                                 <li class="list_title">About</li>
                                 <li>
-                                    <div class="icon">icon</div>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
                                     <span>The Company</span>
                                     
                                 </li>
                                 <li>
-                                    <div class="icon">icon</div>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
                                     <span>Institutional</span>
                                     
                                 </li>
                                 <li>
-                                    <div class="icon">icon</div>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
                                     <span>Social & Events</span>
                                     
                                 </li>
                                 <li>
-                                    <div class="icon">icon</div>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
                                     <span>Innovation</span>
                                     
                                 </li>
                                 <li>
-                                    <div class="icon">icon</div>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
                                     <span>Environment</span>
                                     
                                 </li>
                                 <li>
-                                    <div class="icon">icon</div>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
                                     <span>Technology</span>
                                     
                                 </li>
@@ -117,12 +117,78 @@ export default {
                     </div>
                     <div class="col-3">
                         <div class="card">
-                            prova
+                            <ul class="list-unstyled">
+                                <li class="list_title">Services</li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>The Company</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Institutional</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Social & Events</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Innovation</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Environment</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Technology</span>
+                                    
+                                </li>
+
+                            </ul>
                         </div>
                     </div>
                     <div class="col-3">
                         <div class="card">
-                            prova
+                            <ul class="list-unstyled">
+                                <li class="list_title">Support</li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>The Company</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Institutional</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Social & Events</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Innovation</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Environment</span>
+                                    
+                                </li>
+                                <li>
+                                    <!-- <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/> -->
+                                    <span>Technology</span>
+                                    
+                                </li>
+
+                            </ul>
                         </div>
                     </div>
                 </div>

@@ -13,34 +13,34 @@
             <div class="row py-3 align-items-center">
                 <div class="col-4">
                     <div class="card d-flex flex-column align-items-center p-3">
-                        <h1 class="icon">icon</h1>
+                        <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
                         <h5 class="text-capitalize">standard</h5>
                         <span class="price">$<span class="big_price">490</span>/mo</span>
                         <div class="spec d-flex justify-content-between">
                             <span class="text-capitalize spec_text">standard accounting</span>
-                            <h5 class="icon spec_icon">icon</h5>
+                            <font-awesome-icon class="spec_icon icon" icon="fa-solid fa-user-group"/>
                         </div>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="card d-flex flex-column align-items-center px-3 py-4">
-                        <h1 class="icon">icon</h1>
+                        <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
                         <h5 class="text-capitalize">standard</h5>
                         <span class="price">$<span class="big_price">490</span>/mo</span>
                         <div class="spec d-flex justify-content-between">
                             <span class="text-capitalize spec_text">standard accounting</span>
-                            <h5 class="icon spec_icon">icon</h5>
+                            <font-awesome-icon class="spec_icon icon" icon="fa-solid fa-user-group"/>
                         </div>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="card d-flex flex-column align-items-center p-3">
-                        <h1 class="icon">icon</h1>
+                        <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
                         <h5 class="text-capitalize">standard</h5>
                         <span class="price">$<span class="big_price">490</span>/mo</span>
                         <div class="spec d-flex justify-content-between">
                             <span class="text-capitalize spec_text">standard accounting</span>
-                            <h5 class="icon spec_icon">icon</h5>
+                            <font-awesome-icon class="spec_icon icon" icon="fa-solid fa-user-group"/>
                         </div>
                     </div>
                 </div>

@@ -19,7 +19,7 @@
             <div class="row py-3 g-4">
                 <div class="col-4">
                     <div class="card p-4 d-flex flex-column align-items-start">
-                        <h1 class="icon">icon</h1>
+                        <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
                         <h5>Audit & Assurance</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, iusto!</p>
                         <button class="empty_btn my_btn">read more</button>
@@ -27,40 +27,40 @@
                 </div>
                 <div class="col-4">
                     <div class="card p-4 d-flex flex-column align-items-start">
-                        <h1 class="icon">icon</h1>
-                        <h5>Audit & Assurance</h5>
+                        <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
+                        <h5>Financial Advisory</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, iusto!</p>
                         <button class="empty_btn my_btn">read more</button>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="card p-4 d-flex flex-column align-items-start">
-                        <h1 class="icon">icon</h1>
-                        <h5>Audit & Assurance</h5>
+                        <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
+                        <h5>Analytics and M&A</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, iusto!</p>
                         <button class="empty_btn my_btn">read more</button>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="card p-4 d-flex flex-column align-items-start">
-                        <h1 class="icon">icon</h1>
-                        <h5>Audit & Assurance</h5>
+                        <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
+                        <h5>Middle Marketing</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, iusto!</p>
                         <button class="empty_btn my_btn">read more</button>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="card p-4 d-flex flex-column align-items-start">
-                        <h1 class="icon">icon</h1>
-                        <h5>Audit & Assurance</h5>
+                        <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
+                        <h5>Legal Consulting</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, iusto!</p>
                         <button class="empty_btn my_btn">read more</button>
                     </div>
                 </div>
                 <div class="col-4">
                     <div class="card p-4 d-flex flex-column align-items-start">
-                        <h1 class="icon">icon</h1>
-                        <h5>Audit & Assurance</h5>
+                        <font-awesome-icon class=" icon" icon="fa-solid fa-user-group"/>
+                        <h5>Regulatory Risk</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, iusto!</p>
                         <button class="empty_btn my_btn">read more</button>
                     </div>
